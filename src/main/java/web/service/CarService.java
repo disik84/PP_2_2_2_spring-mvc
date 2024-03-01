@@ -6,4 +6,5 @@ import web.model.Car;
 
 public interface CarService {
     List<Car> showCar(Integer count, List<Car> list);
+
 }
